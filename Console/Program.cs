@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace ConsoleProgram {
+    class Program {
+        static void Main(string[] args) {
+            Console.WriteLine("This is a basic console program.");
+        }
+    }
+}

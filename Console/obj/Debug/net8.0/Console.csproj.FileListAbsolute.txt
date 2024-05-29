@@ -1,0 +1,15 @@
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\bin\Debug\net8.0\Console.exe
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\bin\Debug\net8.0\Console.deps.json
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\bin\Debug\net8.0\Console.runtimeconfig.json
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\bin\Debug\net8.0\Console.dll
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\bin\Debug\net8.0\Console.pdb
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\obj\Debug\net8.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\obj\Debug\net8.0\Console.AssemblyInfoInputs.cache
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\obj\Debug\net8.0\Console.AssemblyInfo.cs
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\obj\Debug\net8.0\Console.csproj.CoreCompileInputs.cache
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\obj\Debug\net8.0\Console.sourcelink.json
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\obj\Debug\net8.0\Console.dll
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\obj\Debug\net8.0\refint\Console.dll
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\obj\Debug\net8.0\Console.pdb
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
+c:\Users\oshul\Desktop\Code Projects\c-sharp-console\Console\obj\Debug\net8.0\ref\Console.dll

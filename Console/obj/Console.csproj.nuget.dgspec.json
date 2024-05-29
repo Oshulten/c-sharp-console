@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oshul\\Desktop\\Code Projects\\c-sharp-console\\Console\\Console.csproj": {}
+    "c:\\Users\\oshul\\Desktop\\Code Projects\\c-sharp-console\\Console\\Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oshul\\Desktop\\Code Projects\\c-sharp-console\\Console\\Console.csproj": {
+    "c:\\Users\\oshul\\Desktop\\Code Projects\\c-sharp-console\\Console\\Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oshul\\Desktop\\Code Projects\\c-sharp-console\\Console\\Console.csproj",
+        "projectUniqueName": "c:\\Users\\oshul\\Desktop\\Code Projects\\c-sharp-console\\Console\\Console.csproj",
         "projectName": "Console",
-        "projectPath": "C:\\Users\\oshul\\Desktop\\Code Projects\\c-sharp-console\\Console\\Console.csproj",
+        "projectPath": "c:\\Users\\oshul\\Desktop\\Code Projects\\c-sharp-console\\Console\\Console.csproj",
         "packagesPath": "C:\\Users\\oshul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oshul\\Desktop\\Code Projects\\c-sharp-console\\Console\\obj\\",
+        "outputPath": "c:\\Users\\oshul\\Desktop\\Code Projects\\c-sharp-console\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oshul\\AppData\\Roaming\\NuGet\\NuGet.Config",
